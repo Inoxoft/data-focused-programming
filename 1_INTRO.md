@@ -53,7 +53,7 @@
 ## (Debian-Based Linux Mostly, Ubuntu) 
 
 * It's popular
-* free
+* It's free
 * manages ~95% of the worlds server data
 
 ---
@@ -128,8 +128,8 @@
 * Unix-like OS Basics
 * Bash Basics
 * Docker Basics
-* SQL Basics
-* Javascript Basics (We'll skip Phone Languages... because Steve Jobs said the browser is the future :) )
+* SQL + Notebook Basics
+* Javascript Basics (We'll skip phone-specific languages [because Steve Jobs said the browser is the future](https://youtu.be/KD2CeEACuRw?t=4412))
 
 ---
 
@@ -142,17 +142,23 @@
 * Numpy and Pandas
 * Pillow
 * NLTK
-* Tensorflow and Notebooks
-* Django (Time Permitting)
-* PyTorch (Time Permitting)
+* Tensorflow
+* Django
+* PyTorch
+
+---
+
+# The "Textbook"
+
+[Safari Books Online](https://learning.oreilly.com/playlists/dad07720-e71c-4715-a8bf-3854d2952f2c)
 
 ---
 
 # Asking For Help
 
-* Need a reference Library
-* Google More!
-* Ask Friends
+* You need a reference library
+* Senior developers use Google more!
+* Ask friends
 * Ask Brad
 * Take a walk
-* Don't Give up!
+* Don't give up!
