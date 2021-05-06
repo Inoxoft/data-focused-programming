@@ -1,2 +1,3 @@
 # data-bootcamp
-Data Bootcamp For Inoxoft
+
+Data Bootcamp for Inoxoft. Notes and code snippets will be put here. 
