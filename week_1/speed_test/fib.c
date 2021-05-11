@@ -1,4 +1,3 @@
-// Fibonacci Series using Recursion
 #include <stdio.h>
 int fib(int n)
 {
