@@ -55,65 +55,64 @@
 
 ---
 
-90
-Age of Windows, SAP
-NextStep, Pixar
-ARM in gameboy advance
-Java (Closed)
-Jobs bios, Gates
-IE on a Mac
-Netscape
+# 90s
+* Age of Windows, SAP
+* NextStep, Pixar
+* ARM in gameboy advance
+* Java (Closed)
+* IE on a Mac
+* Netscape
 
 ---
 
-2000
-Flash
-iPod and Linux
-Xbox (DirectX Box)
-PowerPC byebye
-China
-Just for fun book
-Microsoft Monopoly
-IBM and Lenovo
-Safari!
-Chrome! Open Source handoff part 2
+# 2000
+* Flash
+* iPod and Linux
+* Xbox (DirectX Box)
+* PowerPC byebye
+* China
+* Linus Torvalds-- Just for Fun
+* Microsoft Monopoly
+* IBM and Lenovo
+* Safari!
+* Chrome! Open Source handoff part 2
 
 ---
 
-2010
-AWS
-Apple no more Xserve
-iPhone and Web Apps
-Macos is Unix (BSD note)
-Cross platform phonegap xaramin trash
-Russia China Firewall
+# 2010
+* AWS
+* Apple no more Xserve
+* iPhone and Web Apps
+* Macos is Unix (BSD note)
+* Cross platform phonegap xaramin
+* Russia China Firewall
 
 ---
 
-2020
-Azure and Return of MSFT
-WSL and winloveslinuz
-Return of PWAs
-Open Source
-Google FB Monopoly
-AI and Big Data
-Switch ARM and end of Playstation? One platform to rule all?
+# 2020
+* Azure and Return of MSFT
+* WSL and Windows/Linux Merge
+* Return of PWAs
+* Open Source
+* Google FB Monopoly
+* AI and Big Data
+* Switch ARM and end of Playstation? One platform to rule all?
 
 ---
 
-Takeaways
-Unix philosophy works. Small tools do one thing well
-Data is Gold
-OS's and Browsers are both huge efforts, beyond scope of a single company or person
-Open Source is strong, on a grassroots level.
-Trust communities!
-Front Ends come and go. Lots of incentive for companies to make them easy... Back ends stick around a long time and are stickier...
-Old software dies hard (Windows, Costco using IBM, SAP)
-Open Source as a sustainable Saas solution?
-Golden Handcuff Problem and an open foundation as solution.
-Nowhere to hide. Stallmans struggle for personal computing. Even OpenBSD has Darpa funding
-Commodity Hardware and Drivers. cant have nice things and not pay... works for servers tho!!!
-Laptop tech hasnt changed... https://solar.lowtechmagazine.com/2020/12/how-and-why-i-stopped-buying-new-laptops.html
+# Takeaways
+* Unix philosophy works. Small tools do one thing well
+* Data is Gold
+* OS's and Browsers are both huge efforts, beyond scope of a single company or person
+* Open Source is strong, on a grassroots level.
+* Trust communities!
+* Front Ends come and go. Lots of incentive for companies to make them easy... Back ends stick around a long time and are stickier...
+* Old software dies hard (Windows, Costco using IBM, SAP)
+* Open Source as a sustainable Saas solution?
+* Golden Handcuff Problem and an open foundation as solution.
+* Nowhere to hide. Stallmans struggle for personal computing. Even OpenBSD has Darpa funding
+* Commodity Hardware and Drivers. cant have nice things and not pay... works for servers tho!!!
+* Laptop tech hasnt changed... https://solar.lowtechmagazine.com/2020/12/how-and-why-i-stopped-buying-new-laptops.html
 
 ---
 

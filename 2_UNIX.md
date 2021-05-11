@@ -5,13 +5,13 @@
 
 # What we'll learn
 
-* sed
-* awk
 * grep
-* git + git grep
+* git 
 * man and tldr
+* sed + awk
 * vim
 * pipes
+* how to cmd anything (help)
 
 ---
 
