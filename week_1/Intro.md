@@ -123,28 +123,31 @@
 
 ---
 
-# Quick Stuff (2 weeks)
+# General Stuff
 
 * Unix-like OS Basics
 * Bash Basics
-* Docker Basics
-* SQL + Notebook Basics
-* Javascript Basics (We'll skip phone-specific languages [because Steve Jobs said the browser is the future](https://youtu.be/KD2CeEACuRw?t=4412))
+* SQL Basics
 
 ---
 
-# Python Deep Dive (10 weeks)
+# Python + Data Deep Dive
 
 * CSV and Excel Scripting
-* Requests and Beautiful Soup
-* Flask
-* SQLAlchemy
 * Numpy and Pandas
 * Pillow
 * NLTK
 * Tensorflow
-* Django
-* PyTorch
+
+---
+
+# TBD, Open Questions
+
+* Docker Basics, Devops?
+* PyTorch?
+* Flask, SQLAlchemy, Django?
+* Requests and Beautiful Soup, Web Scraping?
+* Javascript (and collecting web data?) (We'll skip phone-specific languages [because Steve Jobs said the browser is the future](https://youtu.be/KD2CeEACuRw?t=4412))
 
 ---
 
