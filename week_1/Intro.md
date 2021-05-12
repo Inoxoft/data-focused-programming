@@ -112,10 +112,10 @@
 # Must Haves
 
 * Docker
-* A Terminal
+* Terminal/Shell
 * Git
-* A Text Editor (IDE is OK but not required)
-* (sometimes) a web Browser
+* Text Editor (I prefer simple editor to IDE)
+* Web Browser
 
 ---
 
@@ -139,15 +139,24 @@
 * NLTK
 * Tensorflow
 
+
 ---
 
-# TBD, Open Questions
+# Group Projects
 
-* Docker Basics, Devops?
-* PyTorch?
-* Flask, SQLAlchemy, Django?
-* Requests and Beautiful Soup, Web Scraping?
-* Javascript (and collecting web data?) (We'll skip phone-specific languages [because Steve Jobs said the browser is the future](https://youtu.be/KD2CeEACuRw?t=4412))
+* Language, Numeric, or Image Models (in Tensorflow)
+* Beautiful Soup and web scraping
+* Deploy with Flask and Docker... hack some Javascript to display
+* Deploy using tesorflow lite
+
+---
+
+# Guest Speakers
+
+* Django
+* Pytorch
+* Tensorflow/ML Theory
+* PrestoDb
 
 ---
 
@@ -165,3 +174,13 @@
 * Ask Brad
 * Take a walk
 * Don't give up!
+
+---
+
+# Course Preview
+
+* C and Python Speedtest
+* Image, NLP and Numeric ML (see notebooks)
+
+
+
